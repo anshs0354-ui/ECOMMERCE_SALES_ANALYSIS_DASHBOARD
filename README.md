@@ -6,9 +6,9 @@ This project focuses on analyzing **e-commerce sales data** to gain actionable b
 
 The analysis is based on two CSV files:
 
-* **Orders** – contains order-level information
-* 
-* **Order Details** – contains product-level transaction details
+* Orders – contains order-level information
+  
+* Order Details – contains product-level transaction details
 
 The dashboard enables data-driven decision-making by presenting key metrics in a clear and visually engaging way.
 
@@ -46,11 +46,11 @@ This project solves these problems by transforming raw sales data into an **inte
 
 🛠 Tools & Technologies Used
 
-* **Power BI** – Data modeling, visualization, and dashboard creation
+* Power BI– Data modeling, visualization, and dashboard creation
   
-* **CSV Files** – Data source
+* CSV Files – Data source
   
-* **Microsoft Excel** – Initial data inspection (optional)
+* Microsoft Excel – Initial data inspection (optional)
 
 ---
 
@@ -138,12 +138,20 @@ This project solves these problems by transforming raw sales data into an **inte
   
 * Automate data refresh using a database connection
 
----
+
 
 👤 Author
 
 Ansh Sharma
-Student | Aspiring Data Analyst
+CS Student | Aspiring Data Analyst
+
+Through this project, I applied core analytics concepts such as data cleaning,transformed data using Power Query and interactive dashboard creation using Power BI to transform raw e-commerce sales data into meaningful business insights.
+
+📍 India
+
+🔗 LinkedIn: www.linkedin.com/in/ansh-sharma-393733392
+
+💻 GitHub: https://github.com/anshs0354-ui
 
 
 
