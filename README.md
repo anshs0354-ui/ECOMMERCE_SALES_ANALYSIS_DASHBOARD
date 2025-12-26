@@ -102,7 +102,7 @@ This project solves these problems by transforming raw sales data into an **inte
 
 📸 Dashboard Preview
 
-![image alt]
+![image alt](https://github.com/anshs0354-ui/ECOMMERCE_SALES_ANALYSIS_DASHBOARD/blob/cf06d9815e3af27117f352dd07e0b04736e88c23/Screenshot%202025-12-26%20130554.png)
 
 
 
